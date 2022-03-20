@@ -1,6 +1,6 @@
 const APP_PREFIX = "Budget-";
 const DATA_APP_PREFIX = "Budget-Data-";
-const VERSION = "version_07";
+const VERSION = "version_08";
 const CACHE_NAME = APP_PREFIX + VERSION;
 const DATA_CACHE_NAME = DATA_APP_PREFIX + VERSION;
 
